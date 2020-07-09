@@ -1,0 +1,17 @@
+{
+  "name": "Blog",
+  "version": "1.0.0",
+  "description": "bangkk's blog",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "bangkk",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-nprogress": "^1.5.2",
+    "@vuepress/theme-blog": "^2.2.0",
+    "vuepress": "^1.5.2"
+  }
+}
