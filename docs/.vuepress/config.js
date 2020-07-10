@@ -1,8 +1,8 @@
 module.exports = {
   title: '🌵BangKk',
   description: 'bangkk blog',
-  base: '/blog',
-  theme: '@vuepress/theme-blog', // OR shortcut: @vuepress/blog
+  base: '/blog/',
+  extend: '@vuepress/theme-blog', // OR shortcut: @vuepress/blog
   themeConfig: {
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#dateformat
