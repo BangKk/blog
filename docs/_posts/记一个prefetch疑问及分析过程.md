@@ -27,7 +27,7 @@ location: Chengdu
 
 可以看到请求中除了 `App` 必须的资源外，还包含了一大堆 `chunk` 的资源（也就是懒加载的资源）。
 
-因为项目是用 `vue-cli` 创建的，`vue-cli` 默认开启了资源的 `prefetch` 和 `preload` 功能，打包后生成的 `index.html` 已经插入了许多带有 `preXXX` 的 `link` 标签。
+因为项目是用 `vue-cli` 创建的，`vue-cli` 默认开启了资源的 `prefetch` 和 `preload` 功能，打包后生成的 `index.html` 已经插入了许多带有 `preXXX` 的 `link` 标签，因此，本该懒加载的资源也在第一次加载页面时被下载了下来。
 
 我截取了一小段 `HTML` 文本：
 
