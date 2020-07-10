@@ -11,9 +11,4 @@ export default ({
   siteData // site metadata
 }) => {
   // ...apply enhancements to the app
-  if (siteData.pages) {
-    if (siteData.pages[0].excerpt) {
-      siteData.pages[0].summary = siteData.pages[0].excerpt
-    }
-  }
 }
