@@ -4,6 +4,7 @@ date: 2020-07-09
 tags:
   - prefetch
   - faild to load response data
+  - 浏览器加载
 author: BangKk
 location: Chengdu
 ---
