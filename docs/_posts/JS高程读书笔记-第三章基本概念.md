@@ -40,16 +40,16 @@ location: Chengdu
 
 基本类型
 
-1. undefined
-2. null
-3. boolean
-4. string
-5. number
-6. sysbol
+1. Undefined
+2. Null
+3. Boolean
+4. String
+5. Number
+6. Symbol
 
 复杂类型
 
-1. object
+1. Object
 
 ES 中所有值最终都将是上述 6 种数据类型之一
 
