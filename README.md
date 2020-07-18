@@ -14,6 +14,6 @@
 
 ## 读书笔记
 
-1. [JS高程读书笔记-第三章基本概念](https://bangkk.github.io/blog/2020/07/18/JS高程读书笔记-第三章基本概念/)<sub>`2020`</sup>
+1. [JS高程读书笔记-第三章基本概念](https://bangkk.github.io/blog/2020/07/18/js高程读书笔记-第三章基本概念/)<sub>`2020`</sup>
 
 
