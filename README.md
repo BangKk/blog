@@ -12,3 +12,8 @@
 
 1. [记一个 prefetch 疑问及分析过程](https://bangkk.github.io/blog/2020/07/09/记一个prefetch疑问及分析过程/)<sub>`2020`</sup>
 
+## 读书笔记
+
+1. [JS高程读书笔记-第三章基本概念](https://bangkk.github.io/blog/2020/07/18/JS高程读书笔记-第三章基本概念/)<sub>`2020`</sup>
+
+
